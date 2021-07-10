@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "",
+      "url": "",
+      "external": ""
+    },
+    {
       "text": "Who we are",
       "url": "/",
       "external": true
@@ -8,11 +13,6 @@
     {
       "text": "What we do",
       "url": "",
-      "external": false
-    },
-    {
-      "text": "Example Contact Page",
-      "url": "/contact",
       "external": false
     }
   ]
