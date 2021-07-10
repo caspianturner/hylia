@@ -3,7 +3,7 @@
     {
       "text": "Who we are",
       "url": "/",
-      "external": false
+      "external": true
     },
     {
       "text": "GitHub",
